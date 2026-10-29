@@ -6,10 +6,19 @@ MOYU 官方内容目录与下载资源。客户端从此仓库加载经过 Ed255
 
 | 内容 | 版本 | 数量 | 分发方式 |
 | --- | --- | --- | --- |
-| 把话说完整 | 1.0.1 | 160 课 / 7,823 条练习 | `packs/` 中的 JSON |
-| 词光雅思 | 1.0.0 | 7,298 个词条与插图 / 22,905 段录音 | [Release 附件](https://github.com/CatMuse/MOYU_Content/releases/tag/content-v1.0.0)，约 585 MB |
+| 初中英语 | 1.0.1 | 1,803 条 | `packs/` JSON |
+| 高中英语 | 1.0.1 | 2,340 条 | `packs/` JSON |
+| 大学英语四级 | 1.0.1 | 2,607 条 | `packs/` JSON |
+| 大学英语六级 | 1.0.1 | 2,345 条 | `packs/` JSON |
+| 考研英语 | 1.0.1 | 3,728 条 | `packs/` JSON |
+| 托福 | 1.0.1 | 4,264 条 | `packs/` JSON |
+| 雅思 | 1.0.1 | 3,575 条 | `packs/` JSON |
+| 星荣英语 | 1.0.1 | 55 课 / 8,865 条 | `packs/` JSON |
+| 走遍美国 | 1.0.1 | 318 课 / 8,237 条 | `packs/` JSON |
+| 把话说完整 | 1.0.1 | 160 课 / 7,823 条 | `packs/` JSON |
+| 词光雅思 | 1.0.0 | 7,298 条 | [Release 附件](https://github.com/CatMuse/MOYU_Content/releases/tag/content-v1.0.0)，约 585 MB |
 
-其他历史词库和第三方课程暂未纳入公开目录，待确认公开分发许可后再发布。已有本地下载不会被删除。
+共 11 份内容、52,885 条练习（其中词光雅思另含 7,298 张插图和 22,905 段录音）。
 
 ## 自己制作内容
 
@@ -23,6 +32,7 @@ MOYU 官方内容目录与下载资源。客户端从此仓库加载经过 Ed255
 
 - 「把话说完整」为 MOYU 原创课程，Copyright (c) CatMuse，保留所有权利，提供给 MOYU 用户个人学习使用。
 - 词光雅思源自 [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)，固定上游提交 `99c007673d38f02c418d8e4cd2e9ec90b5d40be5`。内容按 **CC BY 4.0** 分发，详见 [原始内容许可](licenses/word-atlas-CONTENT_LICENSE.md) 与 [署名和改动说明](licenses/word-atlas-ATTRIBUTION.txt)。MOYU 仅提取必要词条及媒体，增加安装清单并重新打包，未包含上游网站程序代码。上游内容由 AI 生成，未逐条人工审校。
+- 其他普通词库及「星荣英语」「走遍美国」经维护者确认已取得公开分发授权，保留 WordsFunny、julebu / Earthworm、Family Album, U.S.A. 等来源标记，供 MOYU 用户个人学习使用。原权利人保留版权，除非对应许可另有明确授权，不授予继续再分发的权利。
 - `examples/` 为制作格式示例，可复制修改以创建个人内容包。
 
 ## 目录与完整性
