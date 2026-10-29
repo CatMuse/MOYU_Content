@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "name": "MOYU 内容商店",
+  "packages": [
+    {
+      "id": "say-it",
+      "name": "把话说完整",
+      "version": "1.0.1",
+      "minimumAppVersion": "0.1.0",
+      "kind": "sentences",
+      "author": "MOYU",
+      "source": "MOYU 原创课程",
+      "license": "Copyright (c) CatMuse. All rights reserved. Distributed for personal use with MOYU.",
+      "summary": "160 课，循序练习完整表达。",
+      "url": "packs/say-it-1.0.1.moyupack.json",
+      "sha256": "788aea6a4df36b45df7643e62322c96eeda6b9eae6d07643afd32d87143388a7",
+      "bytes": 1229986,
+      "lessonCount": 160,
+      "itemCount": 7823
+    },
+    {
+      "id": "word-atlas-ielts",
+      "name": "词光雅思",
+      "version": "1.0.0",
+      "minimumAppVersion": "0.1.0",
+      "kind": "vocabulary",
+      "format": "word-atlas",
+      "author": "Word Atlas contributors",
+      "source": "https://github.com/designfuchen/word-atlas",
+      "license": "CC BY 4.0",
+      "summary": "",
+      "url": "https://github.com/CatMuse/MOYU_Content/releases/download/content-v1.0.0/word-atlas-ielts-1.0.0.moyuatlas.zip",
+      "sha256": "b3040507b364e1e7b8854b8a30f4345498b7af5dfeb05aee7700ae9d9ed2775c",
+      "bytes": 584955153,
+      "expandedBytes": 585549132,
+      "lessonCount": 1,
+      "itemCount": 7298,
+      "atlas": {
+        "schemaVersion": 1,
+        "id": "word-atlas-ielts",
+        "version": "1.0.0",
+        "upstreamRevision": "99c007673d38f02c418d8e4cd2e9ec90b5d40be5",
+        "wordCount": 7298,
+        "imageCount": 7298,
+        "audioCount": 22905
+      }
+    }
+  ]
+}

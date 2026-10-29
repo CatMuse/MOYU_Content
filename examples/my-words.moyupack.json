@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "my-words",
+  "name": "我的词库",
+  "version": "1.0.0",
+  "minimumAppVersion": "0.1.0",
+  "kind": "vocabulary",
+  "author": "你的名字",
+  "source": "原创",
+  "license": "仅供个人使用",
+  "summary": "我的学习内容",
+  "decks": [
+    {
+      "id": "my-words-lesson-01",
+      "name": "我的词库",
+      "words": [
+        {
+          "id": "greeting-001",
+          "word": "hello",
+          "meaning": "你好"
+        }
+      ]
+    }
+  ]
+}

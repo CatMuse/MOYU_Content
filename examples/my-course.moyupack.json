@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "my-course",
+  "name": "我的句子课程",
+  "version": "1.0.0",
+  "minimumAppVersion": "0.1.0",
+  "kind": "sentences",
+  "author": "你的名字",
+  "source": "原创",
+  "license": "仅供个人使用",
+  "summary": "我的学习内容",
+  "decks": [
+    {
+      "id": "my-course-lesson-01",
+      "name": "第一课",
+      "words": [
+        {
+          "id": "greeting-001",
+          "word": "Nice to meet you.",
+          "meaning": "很高兴认识你。"
+        }
+      ]
+    }
+  ]
+}

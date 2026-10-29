@@ -1,0 +1,6 @@
+Word Atlas contributors — CC BY 4.0
+Source: https://github.com/designfuchen/word-atlas
+Upstream revision: 99c007673d38f02c418d8e4cd2e9ec90b5d40be5
+License: https://creativecommons.org/licenses/by/4.0/
+MOYU adapts packaging, content organisation and presentation.
+AI-generated source content has not been proofread entry by entry.
