@@ -1,0 +1,186 @@
+{
+  "id": "city-life-scenes",
+  "version": "1.2.0",
+  "pictures": 24,
+  "occurrences": 260,
+  "uniqueWords": 255,
+  "partOfSpeechCounts": {
+    "n.": 241,
+    "v.": 13,
+    "adj.": 5,
+    "phr. v.": 1
+  },
+  "scenes": [
+    {
+      "section": "超市",
+      "partOfSpeechCounts": {
+        "n.": 84
+      },
+      "pictures": [
+        {
+          "id": "city-life-supermarket-entrance",
+          "name": "入口与购物用品",
+          "wordCount": 10,
+          "pageId": "supermarket-entrance"
+        },
+        {
+          "id": "city-life-supermarket-produce",
+          "name": "果蔬陈列区",
+          "wordCount": 12,
+          "pageId": "supermarket-produce"
+        },
+        {
+          "id": "city-life-supermarket-household",
+          "name": "日用品货架",
+          "wordCount": 12,
+          "pageId": "supermarket-household"
+        },
+        {
+          "id": "city-life-supermarket-chilled",
+          "name": "冷藏与冷冻区",
+          "wordCount": 10,
+          "pageId": "supermarket-chilled"
+        },
+        {
+          "id": "city-life-supermarket-checkout",
+          "name": "收银与结账",
+          "wordCount": 10,
+          "pageId": "supermarket-checkout"
+        },
+        {
+          "id": "city-life-supermarket-bakery",
+          "name": "面包与烘焙",
+          "wordCount": 10,
+          "pageId": "supermarket-bakery"
+        },
+        {
+          "id": "city-life-supermarket-snacks",
+          "name": "零食陈列区",
+          "wordCount": 10,
+          "pageId": "supermarket-snacks"
+        },
+        {
+          "id": "city-life-supermarket-drinks",
+          "name": "饮料与容器",
+          "wordCount": 10,
+          "pageId": "supermarket-drinks"
+        }
+      ]
+    },
+    {
+      "section": "街道与公共设施",
+      "partOfSpeechCounts": {
+        "n.": 88
+      },
+      "pictures": [
+        {
+          "id": "city-life-street-crossing",
+          "name": "路口与通行",
+          "wordCount": 12,
+          "pageId": "street-crossing"
+        },
+        {
+          "id": "city-life-street-facilities",
+          "name": "街边公共设施",
+          "wordCount": 12,
+          "pageId": "street-facilities"
+        },
+        {
+          "id": "city-life-street-entrance",
+          "name": "沿街建筑入口",
+          "wordCount": 10,
+          "pageId": "street-entrance"
+        },
+        {
+          "id": "city-life-street-maintenance",
+          "name": "道路维护区",
+          "wordCount": 10,
+          "pageId": "street-maintenance"
+        },
+        {
+          "id": "city-life-street-square",
+          "name": "社区广场",
+          "wordCount": 12,
+          "pageId": "street-square"
+        },
+        {
+          "id": "city-life-street-parking",
+          "name": "街边停车",
+          "wordCount": 12,
+          "pageId": "street-parking"
+        },
+        {
+          "id": "city-life-street-kiosk",
+          "name": "报刊亭",
+          "wordCount": 10,
+          "pageId": "street-kiosk"
+        },
+        {
+          "id": "city-life-street-cleaning",
+          "name": "街道清洁与养护",
+          "wordCount": 10,
+          "pageId": "street-cleaning"
+        }
+      ]
+    },
+    {
+      "section": "商场",
+      "partOfSpeechCounts": {
+        "n.": 69,
+        "v.": 13,
+        "adj.": 5,
+        "phr. v.": 1
+      },
+      "pictures": [
+        {
+          "id": "city-life-mall-atrium",
+          "name": "中庭与导览",
+          "wordCount": 10,
+          "pageId": "mall-atrium"
+        },
+        {
+          "id": "city-life-mall-clothing",
+          "name": "日常服装",
+          "wordCount": 12,
+          "pageId": "mall-clothing"
+        },
+        {
+          "id": "city-life-mall-shoes",
+          "name": "鞋帽与配饰",
+          "wordCount": 12,
+          "pageId": "mall-shoes"
+        },
+        {
+          "id": "city-life-mall-bags",
+          "name": "箱包陈列区",
+          "wordCount": 12,
+          "pageId": "mall-bags"
+        },
+        {
+          "id": "city-life-mall-fitting",
+          "name": "试衣与服装细节",
+          "wordCount": 10,
+          "pageId": "mall-fitting"
+        },
+        {
+          "id": "city-life-mall-jewelry",
+          "name": "首饰与腕表",
+          "wordCount": 10,
+          "pageId": "mall-jewelry"
+        },
+        {
+          "id": "city-life-mall-beauty",
+          "name": "美妆与护理工具",
+          "wordCount": 10,
+          "pageId": "mall-beauty"
+        },
+        {
+          "id": "city-life-mall-toys",
+          "name": "玩具与礼品",
+          "wordCount": 12,
+          "pageId": "mall-toys"
+        }
+      ]
+    }
+  ]
+}

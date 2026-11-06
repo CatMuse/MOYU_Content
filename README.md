@@ -20,9 +20,27 @@ MOYU 官方内容目录与下载资源。客户端从此仓库加载经过 Ed255
 
 共 11 份内容、52,885 条练习（其中词光雅思另含 7,298 张插图和 22,905 段录音）。
 
+## 场景词汇课程
+
+[城市生活 v1.2.0](courses/city-life-scenes/README.md) 已提供可导入包：超市、街道与公共设施、商场各 8 图，共 24 图、260 次词汇练习、255 个去重词。当前尚未加入在线签名目录，可下载后通过客户端「内容 → 管理内容 → 导入本地内容」导入。以上 11 份在线内容统计不包含这份待上架课程。
+
+制作源文件与高清原图保留在制作项目，内容仓库按以下方式组织：
+
+- `packs/`：不可变版本的可导入成品，不上传阶段样板。
+- `courses/<包 id>/`：当前版本说明、图片目录与词表坐标，便于人工校对。
+- `scripts/publish-scene-pack.py`：复制课程成品、校对资料并更新签名目录；可用 `--prepare-only` 在缺少私钥时只整理文件，保留既有目录。
+
+```sh
+python3 scripts/publish-scene-pack.py --prepare-only \
+  --pack ../MOYU_CrossPlatform/examples/city-life-scenes/城市生活-完整场景词汇-v1.2.0.moyupack.json \
+  --review-dir ../MOYU_CrossPlatform/examples/city-life-scenes
+```
+
+原签名私钥恢复后，去掉 `--prepare-only`，必要时用 `--signing-key` 指定原私钥位置，再提交新签名目录。脚本会验证公钥一致、已有目录签名和版本不可变性，不生成替代私钥。
+
 ## 自己制作内容
 
-复制 [单词模板](examples/my-words.moyupack.json) 或 [句子课程模板](examples/my-course.moyupack.json)，按 [格式说明](FORMAT.md) 编辑，在客户端「内容 → 添加内容 → 本地加载」中导入。更新时增加版本号，保持已有包、课及练习的 ID 稳定。移除下载不会清除学习记录。
+复制 [单词模板](examples/my-words.moyupack.json) 或 [句子课程模板](examples/my-course.moyupack.json)，按 [格式说明](FORMAT.md) 编辑，在客户端「内容 → 管理内容 → 导入本地内容」中导入。更新时增加版本号，保持已有包、课及练习的 ID 稳定。移除下载不会清除学习记录。
 
 客户端只连接此官方仓库，不提供切换到其他仓库的设置；本地导入独立可用。内容包仅包含数据，不执行代码。
 

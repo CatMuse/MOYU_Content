@@ -1,0 +1,261 @@
+﻿场景	图片	deck id	词条 id	英文	中文	词性	音标	例句	标签x	标签y	目标x	目标y
+超市	入口与购物用品	city-life-supermarket-entrance	door	door	门	n.	/dɔːr/	The door is open.	0.075	0.15	0.16	0.27
+超市	入口与购物用品	city-life-supermarket-entrance	window	window	窗户	n.	/ˈwɪn.doʊ/	Sunlight comes through the window.	0.395	0.045	0.4	0.225
+超市	入口与购物用品	city-life-supermarket-entrance	shopping-cart	shopping cart	购物车	n.	/ˈʃɑː.pɪŋ ˌkɑːrt/	The shopping cart is empty.	0.24	0.375	0.35	0.58
+超市	入口与购物用品	city-life-supermarket-entrance	handle	handle	把手	n.	/ˈhæn.dəl/	Hold the blue handle.	0.42	0.34	0.45	0.42
+超市	入口与购物用品	city-life-supermarket-entrance	wheel	wheel	轮子	n.	/wiːl/	This wheel is near the floor.	0.47	0.94	0.37	0.89
+超市	入口与购物用品	city-life-supermarket-entrance	shopping-basket	shopping basket	购物篮	n.	/ˈʃɑː.pɪŋ ˌbæs.kɪt/	The shopping basket is red.	0.66	0.94	0.63	0.77
+超市	入口与购物用品	city-life-supermarket-entrance	customer	customer	顾客	n.	/ˈkʌs.tə.mɚ/	The customer is entering the store.	0.92	0.64	0.83	0.5
+超市	入口与购物用品	city-life-supermarket-entrance	backpack	backpack	双肩背包	n.	/ˈbæk.pæk/	The customer is wearing a backpack.	0.76	0.075	0.805	0.345
+超市	入口与购物用品	city-life-supermarket-entrance	employee	employee	店员；雇员	n.	/ɪmˈplɔɪ.iː/	The employee is stacking baskets.	0.58	0.1	0.58	0.39
+超市	入口与购物用品	city-life-supermarket-entrance	umbrella	umbrella	雨伞	n.	/ʌmˈbrel.ə/	The umbrella is by the door.	0.1	0.87	0.053	0.57
+超市	果蔬陈列区	city-life-supermarket-produce	apple	apple	苹果	n.	/ˈæp.əl/	The apple is red.	0.235	0.17	0.235	0.33
+超市	果蔬陈列区	city-life-supermarket-produce	banana	banana	香蕉	n.	/bəˈnæn.ə/	The banana is yellow.	0.41	0.17	0.41	0.34
+超市	果蔬陈列区	city-life-supermarket-produce	orange	orange	橙子	n.	/ˈɔːr.ɪndʒ/	This orange has a thick peel.	0.585	0.17	0.585	0.33
+超市	果蔬陈列区	city-life-supermarket-produce	lemon	lemon	柠檬	n.	/ˈlem.ən/	The lemon is bright yellow.	0.765	0.17	0.765	0.33
+超市	果蔬陈列区	city-life-supermarket-produce	pear	pear	梨	n.	/per/	The pear is green.	0.185	0.64	0.195	0.53
+超市	果蔬陈列区	city-life-supermarket-produce	grape	grape	葡萄	n.	/ɡreɪp/	One grape is beside the bunch.	0.39	0.64	0.428	0.588
+超市	果蔬陈列区	city-life-supermarket-produce	watermelon	watermelon	西瓜	n.	/ˈwɑː.t̬ɚˌmel.ən/	The watermelon has a striped skin.	0.59	0.64	0.56	0.53
+超市	果蔬陈列区	city-life-supermarket-produce	carrot	carrot	胡萝卜	n.	/ˈker.ət/	The carrot has green leaves.	0.8	0.64	0.79	0.54
+超市	果蔬陈列区	city-life-supermarket-produce	potato	potato	土豆	n.	/pəˈteɪ.t̬oʊ/	The potato has brown skin.	0.17	0.93	0.17	0.75
+超市	果蔬陈列区	city-life-supermarket-produce	tomato	tomato	番茄	n.	/təˈmeɪ.t̬oʊ/	The tomato is red.	0.38	0.93	0.38	0.75
+超市	果蔬陈列区	city-life-supermarket-produce	onion	onion	洋葱	n.	/ˈʌn.jən/	The onion has dry outer skin.	0.575	0.93	0.575	0.75
+超市	果蔬陈列区	city-life-supermarket-produce	cucumber	cucumber	黄瓜	n.	/ˈkjuː.kʌm.bɚ/	The cucumber is long and green.	0.805	0.93	0.805	0.75
+超市	日用品货架	city-life-supermarket-household	shelf	shelf	货架；架子	n.	/ʃelf/	The soap is on the shelf.	0.06	0.46	0.08	0.38
+超市	日用品货架	city-life-supermarket-household	soap	soap	肥皂	n.	/soʊp/	The soap is on a small tray.	0.14	0.18	0.14	0.29
+超市	日用品货架	city-life-supermarket-household	toothbrush	toothbrush	牙刷	n.	/ˈtuːθ.brʌʃ/	The toothbrush is in a clear cup.	0.29	0.075	0.285	0.18
+超市	日用品货架	city-life-supermarket-household	toothpaste	toothpaste	牙膏	n.	/ˈtuːθ.peɪst/	The toothpaste tube is open.	0.44	0.17	0.43	0.29
+超市	日用品货架	city-life-supermarket-household	tissue	tissue	纸巾	n.	/ˈtɪʃ.uː/	A tissue sticks out of the box.	0.27	0.405	0.185	0.465
+超市	日用品货架	city-life-supermarket-household	toilet-paper	toilet paper	卫生纸	n.	/ˈtɔɪ.lət ˌpeɪ.pɚ/	The toilet paper is on the middle shelf.	0.49	0.43	0.43	0.51
+超市	日用品货架	city-life-supermarket-household	towel	towel	毛巾	n.	/taʊəl/	The towel is blue.	0.17	0.94	0.19	0.77
+超市	日用品货架	city-life-supermarket-household	sponge	sponge	海绵	n.	/spʌndʒ/	The sponge has a green top.	0.43	0.94	0.43	0.79
+超市	日用品货架	city-life-supermarket-household	bucket	bucket	水桶	n.	/ˈbʌk.ɪt/	The bucket is empty.	0.69	0.94	0.69	0.74
+超市	日用品货架	city-life-supermarket-household	broom	broom	扫帚	n.	/bruːm/	The broom stands beside the shelf.	0.91	0.53	0.92	0.82
+超市	日用品货架	city-life-supermarket-household	dustpan	dustpan	簸箕	n.	/ˈdʌst.pæn/	The dustpan is beside the broom.	0.84	0.94	0.795	0.84
+超市	日用品货架	city-life-supermarket-household	hanger	hanger	衣架	n.	/ˈhæŋ.ɚ/	The hanger is on a hook.	0.59	0.075	0.58	0.28
+超市	冷藏与冷冻区	city-life-supermarket-chilled	refrigerator	refrigerator	冷藏柜；冰箱	n.	/rɪˈfrɪdʒ.ə.reɪ.t̬ɚ/	The milk is in the refrigerator.	0.17	0.045	0.235	0.12
+超市	冷藏与冷冻区	city-life-supermarket-chilled	milk	milk	牛奶	n.	/mɪlk/	The milk is in a glass bottle.	0.195	0.23	0.105	0.29
+超市	冷藏与冷冻区	city-life-supermarket-chilled	egg	egg	鸡蛋	n.	/eɡ/	An egg is at the front of the tray.	0.195	0.43	0.1	0.51
+超市	冷藏与冷冻区	city-life-supermarket-chilled	juice	juice	果汁	n.	/dʒuːs/	The juice is orange.	0.195	0.64	0.09	0.7
+超市	冷藏与冷冻区	city-life-supermarket-chilled	fish	fish	鱼	n.	/fɪʃ/	The fish is on ice.	0.34	0.38	0.35	0.57
+超市	冷藏与冷冻区	city-life-supermarket-chilled	chicken	chicken	鸡肉（整鸡）	n.	/ˈtʃɪk.ɪn/	The chicken is on a separate tray.	0.49	0.36	0.49	0.56
+超市	冷藏与冷冻区	city-life-supermarket-chilled	sausage	sausage	香肠	n.	/ˈsɑː.sɪdʒ/	The sausage is on a small tray.	0.63	0.38	0.6	0.575
+超市	冷藏与冷冻区	city-life-supermarket-chilled	freezer	freezer	冷冻柜	n.	/ˈfriː.zɚ/	The pizza is in the freezer.	0.84	0.94	0.83	0.76
+超市	冷藏与冷冻区	city-life-supermarket-chilled	ice-cream	ice cream	冰淇淋	n.	/ˈaɪs ˌkriːm/	The ice cream is in a cup.	0.75	0.3	0.755	0.57
+超市	冷藏与冷冻区	city-life-supermarket-chilled	pizza	pizza	比萨饼	n.	/ˈpiːt.sə/	The pizza is round.	0.9	0.33	0.88	0.57
+超市	收银与结账	city-life-supermarket-checkout	cashier	cashier	收银员	n.	/kæˈʃɪr/	The cashier stands behind the counter.	0.1	0.28	0.175	0.39
+超市	收银与结账	city-life-supermarket-checkout	conveyor-belt	conveyor belt	传送带	n.	/kənˈveɪ.ɚ ˌbelt/	The conveyor belt carries the groceries.	0.14	0.94	0.155	0.72
+超市	收银与结账	city-life-supermarket-checkout	scale	scale	电子秤	n.	/skeɪl/	The scale has a metal pan.	0.34	0.22	0.33	0.54
+超市	收银与结账	city-life-supermarket-checkout	scanner	scanner	扫码器	n.	/ˈskæn.ɚ/	The scanner is in its holder.	0.46	0.31	0.47	0.49
+超市	收银与结账	city-life-supermarket-checkout	cash-register	cash register	收银机	n.	/ˈkæʃ ˌredʒ.ɪ.stɚ/	The cash register has a screen.	0.61	0.15	0.62	0.47
+超市	收银与结账	city-life-supermarket-checkout	bank-card	bank card	银行卡	n.	/ˈbæŋk ˌkɑːrd/	The bank card has a small chip.	0.38	0.94	0.38	0.77
+超市	收银与结账	city-life-supermarket-checkout	banknote	banknote	纸币	n.	/ˈbæŋk.noʊt/	The banknote is on the counter.	0.6	0.94	0.59	0.77
+超市	收银与结账	city-life-supermarket-checkout	coin	coin	硬币	n.	/kɔɪn/	The coin is round.	0.79	0.94	0.77	0.77
+超市	收银与结账	city-life-supermarket-checkout	receipt	receipt	购物小票	n.	/rɪˈsiːt/	The receipt comes out of the printer.	0.77	0.36	0.75	0.55
+超市	收银与结账	city-life-supermarket-checkout	paper-bag	paper bag	纸袋	n.	/ˈpeɪ.pɚ bæɡ/	The paper bag is open.	0.88	0.22	0.88	0.47
+超市	面包与烘焙	city-life-supermarket-bakery	bread	bread	面包	n.	/bred/	The bread is sliced.	0.16	0.095	0.17	0.29
+超市	面包与烘焙	city-life-supermarket-bakery	bagel	bagel	贝果	n.	/ˈbeɪɡəl/	The bagel has a hole in the middle.	0.43	0.1	0.43	0.29
+超市	面包与烘焙	city-life-supermarket-bakery	baguette	baguette	法棍面包	n.	/bæˈɡet/	The baguette is long and thin.	0.74	0.1	0.75	0.29
+超市	面包与烘焙	city-life-supermarket-bakery	bun	bun	小圆面包	n.	/bʌn/	A round bun is on the tray.	0.1	0.39	0.17	0.5
+超市	面包与烘焙	city-life-supermarket-bakery	croissant	croissant	可颂面包	n.	/krəˈsɑːnt/	The croissant is shaped like a crescent.	0.52	0.4	0.47	0.49
+超市	面包与烘焙	city-life-supermarket-bakery	doughnut	doughnut	甜甜圈	n.	/ˈdoʊnʌt/	The doughnut has pink icing.	0.84	0.4	0.76	0.49
+超市	面包与烘焙	city-life-supermarket-bakery	muffin	muffin	松饼	n.	/ˈmʌfɪn/	The muffin is in a paper cup.	0.15	0.925	0.17	0.71
+超市	面包与烘焙	city-life-supermarket-bakery	cake	cake	蛋糕	n.	/keɪk/	The cake has white frosting.	0.44	0.92	0.46	0.68
+超市	面包与烘焙	city-life-supermarket-bakery	cookie	cookie	曲奇饼干	n.	/ˈkʊki/	The cookie has chocolate chips.	0.82	0.61	0.76	0.74
+超市	面包与烘焙	city-life-supermarket-bakery	tongs	tongs	食品夹	n.	/tɑːŋz/	Use the tongs to pick up the bread.	0.64	0.87	0.83	0.9
+超市	零食陈列区	city-life-supermarket-snacks	chocolate	chocolate	巧克力	n.	/ˈtʃɑːklət/	The chocolate bar has square pieces.	0.17	0.09	0.21	0.27
+超市	零食陈列区	city-life-supermarket-snacks	candy	candy	糖果	n.	/ˈkændi/	The candy has a colorful wrapper.	0.49	0.1	0.51	0.26
+超市	零食陈列区	city-life-supermarket-snacks	cracker	cracker	薄脆饼干	n.	/ˈkrækər/	The cracker is square.	0.8	0.08	0.8	0.25
+超市	零食陈列区	city-life-supermarket-snacks	popcorn	popcorn	爆米花	n.	/ˈpɑːpkɔːrn/	The bowl is full of popcorn.	0.08	0.35	0.17	0.49
+超市	零食陈列区	city-life-supermarket-snacks	peanut	peanut	花生	n.	/ˈpiːnʌt/	This peanut is still in its shell.	0.49	0.38	0.45	0.52
+超市	零食陈列区	city-life-supermarket-snacks	raisin	raisin	葡萄干	n.	/ˈreɪzən/	A dark raisin is on the small plate.	0.86	0.38	0.8	0.52
+超市	零食陈列区	city-life-supermarket-snacks	pretzel	pretzel	扭结脆饼	n.	/ˈpretsəl/	The pretzel looks like a knot.	0.09	0.94	0.115	0.79
+超市	零食陈列区	city-life-supermarket-snacks	potato-chips	potato chips	薯片	n.	/pəˈteɪtoʊ tʃɪps/	The potato chips are in a bowl.	0.34	0.94	0.36	0.79
+超市	零食陈列区	city-life-supermarket-snacks	jar	jar	罐子（玻璃罐）	n.	/dʒɑːr/	The empty jar is made of glass.	0.63	0.57	0.58	0.79
+超市	零食陈列区	city-life-supermarket-snacks	can	can	罐子（金属罐）	n.	/kæn/	The metal can is open.	0.84	0.94	0.83	0.79
+超市	饮料与容器	city-life-supermarket-drinks	water	water	水	n.	/ˈwɔːtər/	Water is flowing into the bowl.	0.09	0.25	0.078	0.575
+超市	饮料与容器	city-life-supermarket-drinks	soda	soda	汽水	n.	/ˈsoʊdə/	There are bubbles in the soda.	0.31	0.29	0.31	0.52
+超市	饮料与容器	city-life-supermarket-drinks	coffee	coffee	咖啡	n.	/ˈkɑːfi/	The coffee is in a glass pot.	0.47	0.28	0.46	0.54
+超市	饮料与容器	city-life-supermarket-drinks	tea-bag	tea bag	茶包	n.	/ˈtiː bæɡ/	The tea bag has a string.	0.32	0.92	0.345	0.75
+超市	饮料与容器	city-life-supermarket-drinks	bottle	bottle	瓶子	n.	/ˈbɑːtəl/	The bottle has a narrow neck.	0.59	0.1	0.6	0.46
+超市	饮料与容器	city-life-supermarket-drinks	carton	carton	纸盒	n.	/ˈkɑːrtən/	The carton is blue and white.	0.75	0.17	0.72	0.43
+超市	饮料与容器	city-life-supermarket-drinks	cap	cap	瓶盖	n.	/kæp/	The blue cap is beside the bottle.	0.61	0.89	0.6	0.71
+超市	饮料与容器	city-life-supermarket-drinks	cup	cup	杯子（带把陶瓷杯）	n.	/kʌp/	The cup has a handle.	0.77	0.92	0.75	0.72
+超市	饮料与容器	city-life-supermarket-drinks	straw	straw	吸管	n.	/strɔː/	The straw has red and white stripes.	0.91	0.78	0.83	0.805
+超市	饮料与容器	city-life-supermarket-drinks	glass	glass	玻璃杯	n.	/ɡlæs/	The empty glass has no handle.	0.91	0.4	0.94	0.59
+街道与公共设施	路口与通行	city-life-street-crossing	road	road	道路	n.	/roʊd/	The car is on the road.	0.4	0.945	0.48	0.88
+街道与公共设施	路口与通行	city-life-street-crossing	sidewalk	sidewalk	人行道	n.	/ˈsaɪdwɔːk/	Walk on the sidewalk.	0.92	0.94	0.94	0.83
+街道与公共设施	路口与通行	city-life-street-crossing	crosswalk	crosswalk	人行横道	n.	/ˈkrɔːswɔːk/	Use the crosswalk to cross the road.	0.53	0.81	0.56	0.72
+街道与公共设施	路口与通行	city-life-street-crossing	traffic-light	traffic light	交通信号灯	n.	/ˈtræfɪk laɪt/	The traffic light is green.	0.4	0.1	0.312	0.208
+街道与公共设施	路口与通行	city-life-street-crossing	traffic-sign	traffic sign	交通标志	n.	/ˈtræfɪk saɪn/	Look at the traffic sign.	0.74	0.13	0.823	0.311
+街道与公共设施	路口与通行	city-life-street-crossing	curb	curb	路缘石	n.	/kɜːrb/	The curb separates the sidewalk from the road.	0.73	0.94	0.807	0.858
+街道与公共设施	路口与通行	city-life-street-crossing	pedestrian	pedestrian	行人	n.	/pəˈdestriən/	A pedestrian is waiting to cross.	0.72	0.6	0.906	0.518
+街道与公共设施	路口与通行	city-life-street-crossing	cyclist	cyclist	骑自行车的人	n.	/ˈsaɪklɪst/	The cyclist is wearing a helmet.	0.35	0.47	0.12	0.52
+街道与公共设施	路口与通行	city-life-street-crossing	bicycle	bicycle	自行车	n.	/ˈbaɪsɪkəl/	The bicycle has two wheels.	0.13	0.93	0.17	0.69
+街道与公共设施	路口与通行	city-life-street-crossing	helmet	helmet	头盔	n.	/ˈhelmɪt/	He is wearing a blue helmet.	0.115	0.13	0.13	0.357
+街道与公共设施	路口与通行	city-life-street-crossing	car	car	小汽车	n.	/kɑːr/	A white car is on the road.	0.54	0.36	0.56	0.54
+街道与公共设施	路口与通行	city-life-street-crossing	truck	truck	卡车	n.	/trʌk/	The truck has a large cargo box.	0.66	0.3	0.733	0.487
+街道与公共设施	街边公共设施	city-life-street-facilities	bench	bench	长椅	n.	/bentʃ/	The bench has wooden slats.	0.1	0.43	0.13	0.64
+街道与公共设施	街边公共设施	city-life-street-facilities	trash-can	trash can	垃圾桶	n.	/ˈtræʃ kæn/	Put litter in the trash can.	0.25	0.43	0.26	0.6
+街道与公共设施	街边公共设施	city-life-street-facilities	streetlight	streetlight	路灯	n.	/ˈstriːtlaɪt/	The streetlight stands beside the bench.	0.3	0.18	0.23	0.1
+街道与公共设施	街边公共设施	city-life-street-facilities	mailbox	mailbox	邮筒	n.	/ˈmeɪlbɑːks/	Put the letter in the blue mailbox.	0.4	0.35	0.4	0.55
+街道与公共设施	街边公共设施	city-life-street-facilities	fire-hydrant	fire hydrant	消防栓	n.	/ˈfaɪər ˌhaɪdrənt/	The fire hydrant is red.	0.34	0.88	0.33	0.71
+街道与公共设施	街边公共设施	city-life-street-facilities	drain	drain	排水口	n.	/dreɪn/	Rainwater flows into the drain.	0.5	0.94	0.5	0.83
+街道与公共设施	街边公共设施	city-life-street-facilities	manhole-cover	manhole cover	井盖	n.	/ˈmænhoʊl ˌkʌvər/	The round manhole cover is closed.	0.7	0.94	0.7	0.82
+街道与公共设施	街边公共设施	city-life-street-facilities	tree	tree	树	n.	/triː/	The tree has a thick trunk.	0.53	0.15	0.55	0.35
+街道与公共设施	街边公共设施	city-life-street-facilities	planter	planter	花箱	n.	/ˈplæntər/	Flowers grow in the wooden planter.	0.59	0.46	0.59	0.65
+街道与公共设施	街边公共设施	city-life-street-facilities	fence	fence	围栏	n.	/fens/	The metal fence runs behind the flowers.	0.7	0.33	0.7	0.5
+街道与公共设施	街边公共设施	city-life-street-facilities	bollard	bollard	防撞柱	n.	/ˈbɑːlərd/	The short bollard stands beside the sidewalk.	0.9	0.93	0.885	0.77
+街道与公共设施	街边公共设施	city-life-street-facilities	noticeboard	noticeboard	公告栏	n.	/ˈnoʊtɪsbɔːrd/	The noticeboard holds several sheets of paper.	0.86	0.2	0.86	0.45
+街道与公共设施	沿街建筑入口	city-life-street-entrance	entrance	entrance	入口	n.	/ˈentrəns/	The entrance leads into the building.	0.48	0.29	0.48	0.47
+街道与公共设施	沿街建筑入口	city-life-street-entrance	steps	steps	台阶	n.	/steps/	The steps lead up to the entrance.	0.36	0.94	0.36	0.82
+街道与公共设施	沿街建筑入口	city-life-street-entrance	ramp	ramp	坡道	n.	/ræmp/	The ramp leads to the same entrance.	0.79	0.94	0.78	0.8
+街道与公共设施	沿街建筑入口	city-life-street-entrance	handrail	handrail	扶手	n.	/ˈhændreɪl/	Hold the handrail on the ramp.	0.88	0.41	0.86	0.6
+街道与公共设施	沿街建筑入口	city-life-street-entrance	doorbell	doorbell	门铃	n.	/ˈdɔːrbel/	Press the doorbell beside the doorway.	0.265	0.3	0.295	0.425
+街道与公共设施	沿街建筑入口	city-life-street-entrance	intercom	intercom	对讲机	n.	/ˈɪntərkɑːm/	Speak through the intercom.	0.76	0.27	0.69	0.41
+街道与公共设施	沿街建筑入口	city-life-street-entrance	security-camera	security camera	监控摄像头	n.	/sɪˈkjʊrəti ˌkæmərə/	The security camera faces the entrance area.	0.16	0.18	0.28	0.23
+街道与公共设施	沿街建筑入口	city-life-street-entrance	canopy	canopy	雨篷	n.	/ˈkænəpi/	The canopy covers the entrance.	0.51	0.065	0.52	0.12
+街道与公共设施	沿街建筑入口	city-life-street-entrance	pillar	pillar	柱子	n.	/ˈpɪlər/	The pillar stands beside the steps.	0.1	0.78	0.075	0.51
+街道与公共设施	沿街建筑入口	city-life-street-entrance	doormat	doormat	门垫	n.	/ˈdɔːrmæt/	Wipe your shoes on the doormat.	0.53	0.77	0.48	0.67
+街道与公共设施	道路维护区	city-life-street-maintenance	worker	worker	工人	n.	/ˈwɜːrkər/	The worker is repairing the sidewalk.	0.1	0.27	0.21	0.43
+街道与公共设施	道路维护区	city-life-street-maintenance	hard-hat	hard hat	安全帽	n.	/ˈhɑːrd hæt/	The worker wears a yellow hard hat.	0.37	0.09	0.21	0.065
+街道与公共设施	道路维护区	city-life-street-maintenance	safety-vest	safety vest	反光背心	n.	/ˈseɪfti vest/	The bright safety vest is easy to see.	0.37	0.205	0.21	0.25
+街道与公共设施	道路维护区	city-life-street-maintenance	traffic-cone	traffic cone	交通锥	n.	/ˈtræfɪk koʊn/	The traffic cone marks the work area.	0.09	0.94	0.095	0.72
+街道与公共设施	道路维护区	city-life-street-maintenance	barrier	barrier	护栏	n.	/ˈbæriər/	The barrier keeps people away from the repair area.	0.53	0.075	0.47	0.3
+街道与公共设施	道路维护区	city-life-street-maintenance	shovel	shovel	铲子	n.	/ˈʃʌvəl/	The shovel is lying on the ground.	0.36	0.68	0.41	0.86
+街道与公共设施	道路维护区	city-life-street-maintenance	wheelbarrow	wheelbarrow	独轮手推车	n.	/ˈwiːlbæroʊ/	The wheelbarrow has one front wheel.	0.69	0.28	0.71	0.49
+街道与公共设施	道路维护区	city-life-street-maintenance	sand	sand	沙子	n.	/sænd/	A small pile of sand is beside the wheelbarrow.	0.9	0.39	0.89	0.57
+街道与公共设施	道路维护区	city-life-street-maintenance	brick	brick	砖	n.	/brɪk/	A red brick is on the pavement.	0.59	0.95	0.58	0.85
+街道与公共设施	道路维护区	city-life-street-maintenance	toolbox	toolbox	工具箱	n.	/ˈtuːlbɑːks/	The open toolbox holds several tools.	0.84	0.95	0.84	0.83
+街道与公共设施	社区广场	city-life-street-square	fountain	fountain	喷泉	n.	/ˈfaʊntən/	Water sprays from the fountain.	0.27	0.28	0.22	0.42
+街道与公共设施	社区广场	city-life-street-square	statue	statue	雕像	n.	/ˈstætʃuː/	The statue stands on a stone base.	0.4	0.06	0.43	0.23
+街道与公共设施	社区广场	city-life-street-square	clock	clock	时钟	n.	/klɑːk/	The clock has two hands.	0.66	0.08	0.55	0.12
+街道与公共设施	社区广场	city-life-street-square	flag	flag	旗帜	n.	/flæɡ/	The blue flag moves in the wind.	0.2	0.06	0.105	0.12
+街道与公共设施	社区广场	city-life-street-square	flagpole	flagpole	旗杆	n.	/ˈflæɡpoʊl/	The flagpole holds the flag.	0.065	0.28	0.066	0.36
+街道与公共设施	社区广场	city-life-street-square	drinking-fountain	drinking fountain	公共饮水器	n.	/ˈdrɪŋkɪŋ ˌfaʊntən/	The drinking fountain has a small spout.	0.16	0.85	0.116	0.57
+街道与公共设施	社区广场	city-life-street-square	musician	musician	乐手	n.	/mjuˈzɪʃən/	The musician is playing a guitar.	0.65	0.25	0.65	0.52
+街道与公共设施	社区广场	city-life-street-square	guitar	guitar	吉他	n.	/ɡɪˈtɑːr/	The guitar has six strings.	0.78	0.44	0.66	0.435
+街道与公共设施	社区广场	city-life-street-square	dog	dog	狗	n.	/dɔːɡ/	The dog is on a red leash.	0.79	0.95	0.78	0.8
+街道与公共设施	社区广场	city-life-street-square	leash	leash	牵引绳	n.	/liːʃ/	She is holding the red leash.	0.82	0.58	0.81	0.67
+街道与公共设施	社区广场	city-life-street-square	pigeon	pigeon	鸽子	n.	/ˈpɪdʒən/	The pigeon is standing on the pavement.	0.49	0.95	0.48	0.83
+街道与公共设施	社区广场	city-life-street-square	stroller	stroller	婴儿车	n.	/ˈstroʊlər/	The stroller is parked in the square.	0.32	0.94	0.26	0.72
+街道与公共设施	街边停车	city-life-street-parking	parking-space	parking space	停车位	n.	/ˈpɑːrkɪŋ speɪs/	The van is inside the parking space.	0.46	0.945	0.53	0.9
+街道与公共设施	街边停车	city-life-street-parking	parking-meter	parking meter	停车计时收费表	n.	/ˈpɑːrkɪŋ ˌmiːtər/	The parking meter stands beside the curb.	0.1	0.35	0.1	0.64
+街道与公共设施	街边停车	city-life-street-parking	motorcycle	motorcycle	摩托车	n.	/ˈmoʊtərsaɪkəl/	The black motorcycle has an exposed engine.	0.14	0.18	0.11	0.43
+街道与公共设施	街边停车	city-life-street-parking	scooter	scooter	踏板摩托车	n.	/ˈskuːtər/	The scooter has a flat footboard.	0.31	0.25	0.27	0.51
+街道与公共设施	街边停车	city-life-street-parking	van	van	厢式货车	n.	/væn/	The white van is parked.	0.76	0.06	0.79	0.45
+街道与公共设施	街边停车	city-life-street-parking	license-plate	license plate	车牌	n.	/ˈlaɪsəns pleɪt/	The license plate is on the front of the van.	0.32	0.8	0.405	0.73
+街道与公共设施	街边停车	city-life-street-parking	mirror	mirror	后视镜	n.	/ˈmɪrər/	The side mirror is beside the driver’s seat.	0.47	0.54	0.6	0.45
+街道与公共设施	街边停车	city-life-street-parking	windshield	windshield	挡风玻璃	n.	/ˈwɪndʃiːld/	The windshield is at the front of the van.	0.48	0.18	0.51	0.36
+街道与公共设施	街边停车	city-life-street-parking	tire	tire	轮胎	n.	/ˈtaɪər/	The tire is made of rubber.	0.66	0.88	0.6	0.77
+街道与公共设施	街边停车	city-life-street-parking	steering-wheel	steering wheel	方向盘	n.	/ˈstɪrɪŋ wiːl/	The steering wheel is visible through the open door.	0.71	0.32	0.65	0.44
+街道与公共设施	街边停车	city-life-street-parking	charging-station	charging station	充电桩	n.	/ˈtʃɑːrdʒɪŋ ˌsteɪʃən/	The van is connected to the charging station.	0.865	0.205	0.95	0.5
+街道与公共设施	街边停车	city-life-street-parking	cable	cable	电缆	n.	/ˈkeɪbəl/	The charging cable is coiled on the ground.	0.9	0.87	0.91	0.74
+街道与公共设施	报刊亭	city-life-street-kiosk	newspaper	newspaper	报纸	n.	/ˈnuːzpeɪpər/	The newspaper is open on the counter.	0.12	0.88	0.2	0.7
+街道与公共设施	报刊亭	city-life-street-kiosk	magazine	magazine	杂志	n.	/ˈmæɡəziːn/	The magazine has a colorful cover.	0.35	0.88	0.35	0.71
+街道与公共设施	报刊亭	city-life-street-kiosk	map	map	地图	n.	/mæp/	The map shows streets and a river.	0.53	0.88	0.52	0.7
+街道与公共设施	报刊亭	city-life-street-kiosk	postcard	postcard	明信片	n.	/ˈpoʊstkɑːrd/	The postcard has a picture on the front.	0.69	0.87	0.69	0.72
+街道与公共设施	报刊亭	city-life-street-kiosk	poster	poster	海报	n.	/ˈpoʊstər/	The poster hangs on the wall.	0.24	0.09	0.24	0.37
+街道与公共设施	报刊亭	city-life-street-kiosk	calendar	calendar	日历	n.	/ˈkæləndər/	The calendar hangs beside the vendor.	0.69	0.12	0.69	0.39
+街道与公共设施	报刊亭	city-life-street-kiosk	bookmark	bookmark	书签	n.	/ˈbʊkmɑːrk/	The bookmark is long and narrow.	0.8	0.6	0.77	0.72
+街道与公共设施	报刊亭	city-life-street-kiosk	rack	rack	展示架	n.	/ræk/	The rack holds several magazines.	0.92	0.24	0.91	0.57
+街道与公共设施	报刊亭	city-life-street-kiosk	vendor	vendor	摊贩	n.	/ˈvendər/	The vendor stands behind the counter.	0.47	0.12	0.47	0.45
+街道与公共设施	报刊亭	city-life-street-kiosk	kiosk	kiosk	售货亭	n.	/ˈkiːɑːsk/	The kiosk has a striped awning.	0.08	0.38	0.12	0.5
+街道与公共设施	街道清洁与养护	city-life-street-cleaning	cleaner	cleaner	清洁工	n.	/ˈkliːnər/	The cleaner is standing beside the tools.	0.29	0.08	0.13	0.32
+街道与公共设施	街道清洁与养护	city-life-street-cleaning	glove	glove	手套	n.	/ɡlʌv/	A yellow glove is on the pavement.	0.09	0.7	0.095	0.86
+街道与公共设施	街道清洁与养护	city-life-street-cleaning	rake	rake	耙子	n.	/reɪk/	The rake has a fan-shaped head.	0.28	0.31	0.25	0.56
+街道与公共设施	街道清洁与养护	city-life-street-cleaning	leaf	leaf	树叶	n.	/liːf/	The yellow leaf has clear veins.	0.45	0.96	0.44	0.85
+街道与公共设施	街道清洁与养护	city-life-street-cleaning	cart	cart	手推车	n.	/kɑːrt/	The blue cart has two wheels.	0.45	0.24	0.44	0.55
+街道与公共设施	街道清洁与养护	city-life-street-cleaning	hose	hose	水管	n.	/hoʊz/	The green hose is coiled on the ground.	0.68	0.4	0.68	0.59
+街道与公共设施	街道清洁与养护	city-life-street-cleaning	brush	brush	刷子	n.	/brʌʃ/	The brush has short stiff bristles.	0.65	0.96	0.66	0.87
+街道与公共设施	街道清洁与养护	city-life-street-cleaning	dustpan	dustpan	簸箕	n.	/ˈdʌstpæn/	Sweep the dirt into the dustpan.	0.92	0.95	0.92	0.8
+街道与公共设施	街道清洁与养护	city-life-street-cleaning	broom	broom	扫帚	n.	/bruːm/	The broom is beside the dustpan.	0.87	0.32	0.82	0.72
+街道与公共设施	街道清洁与养护	city-life-street-cleaning	bucket	bucket	水桶	n.	/ˈbʌkɪt/	The bucket has a curved handle.	0.27	0.96	0.25	0.83
+商场	中庭与导览	city-life-mall-atrium	escalator	escalator	自动扶梯	n.	/ˈeskəleɪtər/	The escalator leads to the next floor.	0.13	0.16	0.16	0.42
+商场	中庭与导览	city-life-mall-atrium	elevator	elevator	电梯	n.	/ˈeləveɪtər/	The elevator is behind the information desk.	0.43	0.1	0.468	0.3
+商场	中庭与导览	city-life-mall-atrium	directory	directory	商场导览牌	n.	/dəˈrektəri/	The directory shows the layout of the mall.	0.88	0.22	0.86	0.54
+商场	中庭与导览	city-life-mall-atrium	information-desk	information desk	服务台	n.	/ˌɪnfərˈmeɪʃən desk/	Ask for help at the information desk.	0.63	0.94	0.64	0.78
+商场	中庭与导览	city-life-mall-atrium	receptionist	receptionist	接待员	n.	/rɪˈsepʃənɪst/	The receptionist is helping a customer.	0.52	0.7	0.61	0.54
+商场	中庭与导览	city-life-mall-atrium	floor	floor	地面	n.	/flɔːr/	The floor is covered with light-colored tiles.	0.11	0.94	0.12	0.82
+商场	中庭与导览	city-life-mall-atrium	point	point	指；指向	v.	/pɔɪnt/	The receptionist points to the directory.	0.73	0.58	0.75	0.503
+商场	中庭与导览	city-life-mall-atrium	wait	wait	等候	v.	/weɪt/	The woman waits behind the other customer.	0.13	0.72	0.27	0.63
+商场	中庭与导览	city-life-mall-atrium	open	open	敞开的	adj.	/ˈoʊpən/	The left elevator is open.	0.59	0.16	0.53	0.32
+商场	中庭与导览	city-life-mall-atrium	closed	closed	关闭的	adj.	/kloʊzd/	The right elevator is closed.	0.73	0.1	0.71	0.33
+商场	日常服装	city-life-mall-clothing	t-shirt	t-shirt	T恤衫	n.	/ˈtiːʃɜːrt/	The yellow T-shirt is on the table.	0.6	0.94	0.735	0.8
+商场	日常服装	city-life-mall-clothing	shirt	shirt	衬衫	n.	/ʃɜːrt/	The white shirt has a collar.	0.08	0.055	0.115	0.29
+商场	日常服装	city-life-mall-clothing	sweater	sweater	毛衣	n.	/ˈswetər/	The knitted sweater is hanging on the rail.	0.27	0.055	0.225	0.32
+商场	日常服装	city-life-mall-clothing	jacket	jacket	夹克	n.	/ˈdʒækɪt/	The blue jacket has a zipper.	0.57	0.6	0.575	0.45
+商场	日常服装	city-life-mall-clothing	coat	coat	大衣	n.	/koʊt/	The beige coat is long.	0.4	0.13	0.335	0.32
+商场	日常服装	city-life-mall-clothing	dress	dress	连衣裙	n.	/dres/	The red dress is on a hanger.	0.5	0.45	0.44	0.34
+商场	日常服装	city-life-mall-clothing	skirt	skirt	半身裙	n.	/skɜːrt/	The green skirt hangs below the shirts.	0.1	0.94	0.14	0.69
+商场	日常服装	city-life-mall-clothing	jeans	jeans	牛仔裤	n.	/dʒiːnz/	The jeans are made of blue denim.	0.28	0.94	0.28	0.73
+商场	日常服装	city-life-mall-clothing	shorts	shorts	短裤	n.	/ʃɔːrts/	The shorts are shorter than the jeans.	0.42	0.79	0.425	0.65
+商场	日常服装	city-life-mall-clothing	wear	wear	穿着	v.	/wer/	The customer wears a blue jacket.	0.75	0.21	0.63	0.35
+商场	日常服装	city-life-mall-clothing	fold	fold	折叠	v.	/foʊld/	The employee folds the T-shirt.	0.91	0.92	0.83	0.76
+商场	日常服装	city-life-mall-clothing	striped	striped	有条纹的	adj.	/straɪpt/	The sweater is striped.	0.22	0.48	0.23	0.23
+商场	鞋帽与配饰	city-life-mall-shoes	dress-shoe	dress shoe	正装皮鞋	n.	/ˈdres ʃuː/	The black dress shoe is on display.	0.1	0.28	0.09	0.46
+商场	鞋帽与配饰	city-life-mall-shoes	sneaker	sneaker	运动鞋	n.	/ˈsniːkər/	The sneaker has laces.	0.27	0.24	0.22	0.46
+商场	鞋帽与配饰	city-life-mall-shoes	boot	boot	靴子	n.	/buːt/	The brown boot has a tall shaft.	0.4	0.14	0.32	0.34
+商场	鞋帽与配饰	city-life-mall-shoes	sandal	sandal	凉鞋	n.	/ˈsændəl/	The sandal has an open toe.	0.43	0.31	0.425	0.46
+商场	鞋帽与配饰	city-life-mall-shoes	slipper	slipper	拖鞋	n.	/ˈslɪpər/	The soft slipper has no back.	0.56	0.28	0.545	0.46
+商场	鞋帽与配饰	city-life-mall-shoes	sock	sock	袜子	n.	/sɑːk/	One sock is lying on the display.	0.055	0.94	0.055	0.77
+商场	鞋帽与配饰	city-life-mall-shoes	hat	hat	帽子	n.	/hæt/	The hat has a wide brim.	0.2	0.94	0.18	0.76
+商场	鞋帽与配饰	city-life-mall-shoes	scarf	scarf	围巾	n.	/skɑːrf/	The scarf is folded on the shelf.	0.35	0.94	0.33	0.76
+商场	鞋帽与配饰	city-life-mall-shoes	belt	belt	腰带	n.	/belt/	The belt has a metal buckle.	0.5	0.94	0.46	0.76
+商场	鞋帽与配饰	city-life-mall-shoes	necktie	necktie	领带	n.	/ˈnektaɪ/	The blue necktie is on display.	0.61	0.91	0.575	0.72
+商场	鞋帽与配饰	city-life-mall-shoes	try-on	try on	试穿	phr. v.	/traɪ ɑːn/	She tries on a shoe.	0.74	0.36	0.715	0.531
+商场	鞋帽与配饰	city-life-mall-shoes	tie	tie	系；打结	v.	/taɪ/	He ties his shoelaces.	0.86	0.94	0.85	0.773
+商场	箱包陈列区	city-life-mall-bags	handbag	handbag	手提包	n.	/ˈhændbæɡ/	The small handbag has short handles.	0.82	0.29	0.67	0.43
+商场	箱包陈列区	city-life-mall-bags	tote-bag	tote bag	托特包	n.	/ˈtoʊt bæɡ/	The tote bag has two long handles.	0.17	0.1	0.18	0.36
+商场	箱包陈列区	city-life-mall-bags	duffel-bag	duffel bag	旅行袋	n.	/ˈdʌfəl bæɡ/	The duffel bag is soft and wide.	0.51	0.56	0.38	0.62
+商场	箱包陈列区	city-life-mall-bags	backpack	backpack	双肩背包	n.	/ˈbækpæk/	The backpack has two shoulder straps.	0.42	0.055	0.4	0.31
+商场	箱包陈列区	city-life-mall-bags	suitcase	suitcase	行李箱	n.	/ˈsuːtkeɪs/	The suitcase has wheels.	0.87	0.94	0.89	0.7
+商场	箱包陈列区	city-life-mall-bags	briefcase	briefcase	公文包	n.	/ˈbriːfkeɪs/	The briefcase has a short handle.	0.1	0.92	0.13	0.75
+商场	箱包陈列区	city-life-mall-bags	wallet	wallet	钱包	n.	/ˈwɑːlɪt/	The open wallet has empty card slots.	0.53	0.94	0.39	0.85
+商场	箱包陈列区	city-life-mall-bags	zipper	zipper	拉链	n.	/ˈzɪpər/	The zipper closes the front pocket.	0.27	0.5	0.37	0.59
+商场	箱包陈列区	city-life-mall-bags	buckle	buckle	搭扣	n.	/ˈbʌkəl/	The buckle is on the front of the backpack.	0.545	0.25	0.416	0.313
+商场	箱包陈列区	city-life-mall-bags	strap	strap	背带	n.	/stræp/	The long strap lies in front of the bag.	0.28	0.9	0.38	0.75
+商场	箱包陈列区	city-life-mall-bags	carry	carry	提；携带	v.	/ˈkæri/	She carries the handbag in one hand.	0.83	0.18	0.68	0.31
+商场	箱包陈列区	city-life-mall-bags	pull	pull	拉	v.	/pʊl/	She pulls the suitcase behind her.	0.9	0.41	0.8	0.485
+商场	试衣与服装细节	city-life-mall-fitting	fitting-room	fitting room	试衣间	n.	/ˈfɪtɪŋ ruːm/	The fitting room has a curtain.	0.14	0.1	0.14	0.37
+商场	试衣与服装细节	city-life-mall-fitting	curtain	curtain	帘子	n.	/ˈkɜːrtən/	The curtain is drawn to one side.	0.065	0.44	0.045	0.26
+商场	试衣与服装细节	city-life-mall-fitting	full-length-mirror	full-length mirror	全身镜	n.	/ˌfʊl leŋθ ˈmɪrər/	The full-length mirror reflects the clothes.	0.3	0.89	0.28	0.53
+商场	试衣与服装细节	city-life-mall-fitting	hanger	hanger	衣架	n.	/ˈhæŋər/	The empty hanger is on the rail.	0.91	0.4	0.945	0.3
+商场	试衣与服装细节	city-life-mall-fitting	stool	stool	凳子	n.	/stuːl/	The stool is inside the fitting room.	0.13	0.55	0.14	0.71
+商场	试衣与服装细节	city-life-mall-fitting	measuring-tape	measuring tape	软尺	n.	/ˈmeʒərɪŋ teɪp/	The yellow measuring tape bends around his waist.	0.61	0.67	0.52	0.5
+商场	试衣与服装细节	city-life-mall-fitting	sleeve	sleeve	袖子	n.	/sliːv/	The sleeve extends across the table.	0.38	0.72	0.45	0.835
+商场	试衣与服装细节	city-life-mall-fitting	pocket	pocket	口袋	n.	/ˈpɑːkɪt/	The shirt has a pocket on the front.	0.9	0.86	0.72	0.86
+商场	试衣与服装细节	city-life-mall-fitting	measure	measure	测量	v.	/ˈmeʒər/	The assistant measures the customer’s waist.	0.39	0.42	0.473	0.5
+商场	试衣与服装细节	city-life-mall-fitting	hang	hang	悬挂	v.	/hæŋ/	The customer hangs a jacket on the rail.	0.74	0.1	0.825	0.245
+商场	首饰与腕表	city-life-mall-jewelry	watch	watch	手表	n.	/wɑːtʃ/	The watch has a brown strap.	0.19	0.18	0.235	0.45
+商场	首饰与腕表	city-life-mall-jewelry	ring	ring	戒指	n.	/rɪŋ/	The ring stands in its own holder.	0.09	0.59	0.16	0.72
+商场	首饰与腕表	city-life-mall-jewelry	necklace	necklace	项链	n.	/ˈnekləs/	The necklace is on a display stand.	0.48	0.15	0.48	0.49
+商场	首饰与腕表	city-life-mall-jewelry	bracelet	bracelet	手链	n.	/ˈbreɪslət/	The gold bracelet rests on a dark pad.	0.35	0.58	0.38	0.72
+商场	首饰与腕表	city-life-mall-jewelry	earring	earring	耳环	n.	/ˈɪrɪŋ/	One earring hangs from the small stand.	0.63	0.45	0.61	0.67
+商场	首饰与腕表	city-life-mall-jewelry	pendant	pendant	吊坠	n.	/ˈpendənt/	The pendant is separate from the necklace.	0.91	0.59	0.8	0.76
+商场	首饰与腕表	city-life-mall-jewelry	display-case	display case	展示柜	n.	/dɪˈspleɪ keɪs/	The glass display case holds the jewelry.	0.15	0.94	0.025	0.916
+商场	首饰与腕表	city-life-mall-jewelry	jewelry-box	jewelry box	首饰盒	n.	/ˈdʒuːəlri bɑːks/	The jewelry box has several compartments.	0.79	0.18	0.75	0.45
+商场	首饰与腕表	city-life-mall-jewelry	shiny	shiny	有光泽的	adj.	/ˈʃaɪni/	The bracelet is shiny.	0.47	0.91	0.36	0.778
+商场	首饰与腕表	city-life-mall-jewelry	round	round	圆形的	adj.	/raʊnd/	The pendant is round.	0.78	0.94	0.8	0.83
+商场	美妆与护理工具	city-life-mall-beauty	lipstick	lipstick	口红	n.	/ˈlɪpstɪk/	The lipstick is red.	0.34	0.4	0.37	0.57
+商场	美妆与护理工具	city-life-mall-beauty	nail-polish	nail polish	指甲油	n.	/ˈneɪl pɑːlɪʃ/	The pink nail polish comes with a brush.	0.52	0.44	0.515	0.62
+商场	美妆与护理工具	city-life-mall-beauty	perfume	perfume	香水	n.	/ˈpɜːrfjuːm/	The perfume is in a clear bottle.	0.68	0.64	0.77	0.57
+商场	美妆与护理工具	city-life-mall-beauty	mascara	mascara	睫毛膏	n.	/mæsˈkerə/	The mascara has a spiral brush.	0.93	0.75	0.89	0.52
+商场	美妆与护理工具	city-life-mall-beauty	eye-shadow	eye shadow	眼影	n.	/ˈaɪ ʃædoʊ/	The eye shadow comes in several colors.	0.21	0.95	0.28	0.84
+商场	美妆与护理工具	city-life-mall-beauty	makeup-brush	makeup brush	化妆刷	n.	/ˈmeɪkʌp brʌʃ/	The makeup brush has soft bristles.	0.41	0.95	0.46	0.81
+商场	美妆与护理工具	city-life-mall-beauty	compact-mirror	compact mirror	随身小镜	n.	/ˈkɑːmpækt ˌmɪrər/	The compact mirror folds shut.	0.66	0.95	0.68	0.84
+商场	美妆与护理工具	city-life-mall-beauty	hair-clip	hair clip	发夹	n.	/ˈher klɪp/	The hair clip has teeth and a spring.	0.88	0.95	0.87	0.83
+商场	美妆与护理工具	city-life-mall-beauty	apply	apply	涂；涂抹	v.	/əˈplaɪ/	The customer applies lipstick to her lips.	0.13	0.4	0.282	0.315
+商场	美妆与护理工具	city-life-mall-beauty	spray	spray	喷	v.	/spreɪ/	The employee sprays perfume onto a test strip.	0.91	0.22	0.795	0.36
+商场	玩具与礼品	city-life-mall-toys	teddy-bear	teddy bear	玩具熊	n.	/ˈtedi ber/	The teddy bear is sitting on the shelf.	0.14	0.08	0.13	0.3
+商场	玩具与礼品	city-life-mall-toys	doll	doll	玩偶	n.	/dɑːl/	The doll is wearing a dress.	0.3	0.14	0.25	0.33
+商场	玩具与礼品	city-life-mall-toys	robot	robot	机器人玩具	n.	/ˈroʊbɑːt/	The toy robot has arms and legs.	0.41	0.28	0.35	0.33
+商场	玩具与礼品	city-life-mall-toys	puzzle	puzzle	拼图	n.	/ˈpʌzəl/	The puzzle is partly finished.	0.58	0.95	0.43	0.84
+商场	玩具与礼品	city-life-mall-toys	toy-car	toy car	玩具汽车	n.	/ˈtɔɪ kɑːr/	The small toy car is red.	0.22	0.94	0.275	0.78
+商场	玩具与礼品	city-life-mall-toys	ball	ball	球	n.	/bɔːl/	The colorful ball is on the floor.	0.08	0.65	0.075	0.84
+商场	玩具与礼品	city-life-mall-toys	balloon	balloon	气球	n.	/bəˈluːn/	The balloon has a thin string.	0.78	0.14	0.645	0.11
+商场	玩具与礼品	city-life-mall-toys	kite	kite	风筝	n.	/kaɪt/	The kite is shaped like a diamond.	0.54	0.41	0.5	0.21
+商场	玩具与礼品	city-life-mall-toys	gift-box	gift box	礼品盒	n.	/ˈɡɪft bɑːks/	The gift box is on the counter.	0.7	0.82	0.81	0.68
+商场	玩具与礼品	city-life-mall-toys	wrapping-paper	wrapping paper	包装纸	n.	/ˈræpɪŋ ˌpeɪpər/	The wrapping paper has a flower pattern.	0.88	0.95	0.91	0.73
+商场	玩具与礼品	city-life-mall-toys	wrap	wrap	包；包裹	v.	/ræp/	The employee wraps the gift box.	0.72	0.48	0.825	0.615
+商场	玩具与礼品	city-life-mall-toys	play	play	玩	v.	/pleɪ/	The child plays with the toy car.	0.15	0.53	0.26	0.73
